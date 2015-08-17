@@ -17,10 +17,13 @@ Available for Mac & Windows*(soon)*
 
 * Install [Python 2.7.10](https://www.python.org/downloads/ "Python") from the website
 
+* Install [Xcode](https://developer.apple.com/xcode/downloads/) from the App Store
+
+* Install [Arduino](https://www.arduino.cc/en/Main/Software)
+
 * Install pip on terminal by typing:
 <br> `sudo easy_install pip` </br>
 
-* Install [Arduino](https://www.arduino.cc/en/Main/Software)
 ###Install
 
 * Navigate to python_MINECRAFT folder in terminal: 
@@ -52,6 +55,7 @@ The Python scripts open the serial communication with the DIY Gamer, allowing tw
 
 While in Single Player world, you create command blocks by typing in chat 
 *(press T for chat)*
+
 `/give <player> minecraft:command_block <amount>`
 
 

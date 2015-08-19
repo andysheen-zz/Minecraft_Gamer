@@ -9,7 +9,7 @@ To communicate from your minecraft world to the Gamer, the system uses Command B
 Available for Mac & Windows*(soon)*
 
 
-##MAC INSTALL
+##WINDOWS INSTALL
 
 ###Prerequisites
 

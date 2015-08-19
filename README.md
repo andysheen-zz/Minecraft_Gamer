@@ -1,15 +1,6 @@
 #DIY GAMER & MINECRAFT
 
-The Mac install
-
-ever wanted to control your Minecraft world with your DIY Gamer and vice versa? 
-
-This system allows you to control your Minecraft character using Python and serial communication to turn your Gamer into a HID device [Human Interface Device](https://en.wikipedia.org/wiki/Human_interface_device "HID")
-
-To communicate from your minecraft world to the Gamer, the system uses Command Blocks to send Raw data to the console log.
-
-Available for Mac & Windows*(soon)*
-
+DIY Gamer and Minecraft using Python and Serial communication.
 
 ##MAC INSTALL
 
